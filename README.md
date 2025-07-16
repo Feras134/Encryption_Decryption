@@ -1,6 +1,6 @@
 # AES Encryption and Brute Force Attack Project
 
-This project demonstrates AES-128 encryption/decryption implementation and brute force attack techniques for educational purposes. The code is designed for the CSC489 course homework assignment.
+This project demonstrates AES-128 encryption/decryption implementation and brute force attack techniques for educational purposes. T
 
 ## Overview
 
